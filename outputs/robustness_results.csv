@@ -1,0 +1,5 @@
+Condition,KNN Accuracy,SVM Accuracy,KNN Drop,SVM Drop
+Clean (Baseline),0.9705,0.9767,0.0,0.0
+Gaussian Noise (σ=0.1),0.9714,0.9735,-0.0009,0.0032
+Rotation (±15°),0.958,0.9634,0.0125,0.0133
+Shift (±3 px),0.5647,0.606,0.4058,0.3707
